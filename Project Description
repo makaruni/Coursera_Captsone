@@ -11,5 +11,8 @@ Data used in this project will come from the following sources:
         restaurants and eateries. (https://foursquare.com/developers/apps)
     2. Part of the location decision will come to proximity to public transporation and since we are using New York city in this project,
         data from New Yorks open data program will be used to identify the proper subway line to build the bar by.
+        -https://opendata.cityofnewyork.us/
+        -https://data.ny.gov/
+        
     
         
