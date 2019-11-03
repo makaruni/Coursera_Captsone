@@ -1,5 +1,15 @@
 Project Description:
-     - The goal of this project will be to determine the best place to start a cocktail bar in the city of Toronto. 
-       The decision will be made by looking at areas of Toronto that are high income 
-       are close to public transportation (proximity to such transportation could encourage potential customer to spend more),
-       and have highly rated restaurants in the area.
+     - The goal of this project will be to determine the best place to start a cocktail bar in the city of New York. 
+       The decision will be made by looking at areas of New York that are densly populated with restaurants but do not appear to have a 
+       proportional amount of bars. Once a decision has been made on an area, Publicy available New York data will be used to find the 
+       nearest public transporation. Proximity to public transportation could increase the likelihood that a potential customer would
+       spend more.
+
+
+Data used in this project will come from the following sources:
+    1. Foursquare API which will allow me to identify a handful of areas which are sparsely populated with bars while having a large cluster
+        restaurants and eateries. (https://foursquare.com/developers/apps)
+    2. Part of the location decision will come to proximity to public transporation and since we are using New York city in this project,
+        data from New Yorks open data program will be used to identify the proper subway line to build the bar by.
+    
+        
