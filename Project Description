@@ -3,7 +3,11 @@
        The decision will be made by looking at areas of New York that are densly populated with restaurants but do not appear to have a 
        proportional amount of bars. Once a decision has been made on an area, Publicy available New York data will be used to find the 
        nearest public transporation. Proximity to public transportation could increase the likelihood that a potential customer would
-       spend more.
+       spend more. Considering there are many subway lines in New York, selecting will come down to the following findings:
+          - The proximity to an area of New York that has a high concentration of eateries/night life.
+          - High(er) income area
+          - Area of New York where the average age of the occupants tends to be in the mid-to-late twenties and thirties (assuming there
+               is a strong correlation between age and level of alcohol consumption).
 
 
 2. Data used in this project will come from the following sources:
@@ -14,5 +18,7 @@
         -https://opendata.cityofnewyork.us/
         -https://data.ny.gov/
         
+          -  
+       
     
         
