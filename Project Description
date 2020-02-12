@@ -14,8 +14,5 @@
     B. The dataset will be used to map out the different types of rooms in the New York area to identify which room type is most popular, which
     neighbourhood group is most popular, and regression analysis will be done to identify the increase in pricing, if any, that any of these variables
     cause.
-        
-          -  
-       
     
-        
+Data source link: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
